@@ -2,8 +2,13 @@
 
 
 Build | Code Quality | Unity | Git Inspector
-------|----------|-------|--------------
-[![C/C++ CI](https://github.com/adarishashank/AppliedSDLC/actions/workflows/c-build.yml/badge.svg)](https://github.com/adarishashank/AppliedSDLC/actions/workflows/c-build.yml) | [![Static Cppcheck](https://github.com/adarishashank/AppliedSDLC/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/adarishashank/AppliedSDLC/actions/workflows/cppcheck.yml)[![Valgrid](https://github.com/adarishashank/AppliedSDLC/actions/workflows/Valgrid@test.yml/badge.svg)](https://github.com/adarishashank/AppliedSDLC/actions/workflows/Valgrid@test.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/21c5cae1b5844158b9eb3d4c80125c89)](https://app.codacy.com/gh/adarishashank/AppliedSDLC/dashboard?branch=main=Badge_Grade) | [![Unity - Unit Testing](https://github.com/adarishashank/AppliedSDLC/actions/workflows/unity@test.yml/badge.svg)](https://github.com/adarishashank/AppliedSDLC/actions/workflows/unity@test.yml)| [![Git Inspector](https://github.com/adarishashank/AppliedSDLC/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/adarishashank/AppliedSDLC/actions/workflows/gitinspector.yml) | 
+[![C/C++ CI - Build Status](https://github.com/manoharbrvara/Stepin_mini_project_LTTS/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/manoharbrvara/Stepin_mini_project_LTTS/actions/workflows/c-cpp.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f1a82b689a7d4f7fb363ea16ccbdd5b8)](https://www.codacy.com/gh/manoharbrvara/Stepin_mini_project_LTTS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=manoharbrvara/Stepin_mini_project_LTTS&amp;utm_campaign=Badge_Grade)
+[![Code Quality - Static Code - Cppcheck](https://github.com/manoharbrvara/Stepin_mini_project_LTTS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/manoharbrvara/Stepin_mini_project_LTTS/actions/workflows/cppcheck.yml) 
+[![Contribution Check - Git Inspector](https://github.com/manoharbrvara/Stepin_mini_project_LTTS/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/manoharbrvara/Stepin_mini_project_LTTS/actions/workflows/gitinspector.yml)
+
+
+
+
 
 
 ## Folder Structure
